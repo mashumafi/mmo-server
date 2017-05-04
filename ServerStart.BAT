@@ -1,0 +1,2 @@
+java.exe Server
+PAUSE
